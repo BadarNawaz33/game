@@ -1,14 +1,112 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<!-- Badar Nawaz GitHub Profile README -->
 
-# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+<h1 align="center">Hi there 👋, I'm Badar Nawaz</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Data%20Engineer;Cloud%20Enthusiast;Always%20learning%20new%20things!&center=true&width=500&height=50">
+</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350" height="220">
+</p>
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<p align="center">
+  <a href="https://github.com/BadarNawaz33">
+    <img src="https://komarev.com/ghpvc/?username=BadarNawaz33&label=Profile%20views&color=0e6e55&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/BadarNawaz33?tab=followers">
+    <img src="https://img.shields.io/github/followers/BadarNawaz33?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎯 Data Engineer at **InDrive**, building large-scale backend and ML systems  
+- 💻 Backend Wizard: **Python** | **Java** | **Django** | **Spring Boot**  
+- 🖥️ Frontend Enthusiast: **React**, **Next.js**  
+- ☁️ Cloud Aficionado: **AWS**, **GCP**, **Docker**, **Kubernetes**  
+- 📊 Big Data Adventurer: **Spark**, **Kafka**, **Flink**  
+- 🔥 Passionate about crafting intelligent, scalable, and secure software solutions  
+- 📚 Always learning: Data Science, AI/ML, Distributed Systems
+
+---
+
+## 🛠️ My Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ruby,react,nextjs,django,flask,nodejs,spring,aws,gcp,docker,kubernetes,postgres,mysql,mongodb,redis,fastapi,tensorflow,pytorch,git,github,linux" />
+</p>
+
+---
+
+## 🏆 Certifications (in progress / planned)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow%20Developer-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Science%20Specialization-003B57?style=for-the-badge&logo=coursera&logoColor=white" />
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BadarNawaz33&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Badar's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BadarNawaz33&theme=default&hide_border=true" alt="Badar's GitHub Streak" />
+</p>
+
+---
+
+## 💻 Languages I Use Most
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+</p>
+
+---
+
+## 📚 Featured Projects
+
+- 🚀 [Parcelist](https://www.parcelist.com) — Cloud-based package delivery platform  
+- 🕷️ [Functionize Web Crawler](https://functionize.com) — Java-based data extraction crawler  
+- 👕 [Wearwardrobe](https://wearwardrobe.co) — Full-stack ecommerce platform (React + Spring Boot)
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:malik.badar.nawaz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-malik.badar.nawaz@gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/badar-nawaz-2a03a728b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Badar%20Nawaz-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/BadarNawaz33">
+    <img src="https://img.shields.io/badge/GitHub-BadarNawaz33-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 🐍 GitHub Snake Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BadarNawaz33/BadarNawaz33/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BadarNawaz33/BadarNawaz33/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/BadarNawaz33/BadarNawaz33/output/github-snake.svg" />
 </picture>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e6e55&height=100&section=footer"/>
+</p>
